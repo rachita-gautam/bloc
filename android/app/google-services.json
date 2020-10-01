@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812796910341",
+    "firebase_url": "https://epaisa-bloc.firebaseio.com",
+    "project_id": "epaisa-bloc",
+    "storage_bucket": "epaisa-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812796910341:android:d6d1f40fb244055847f56c",
+        "android_client_info": {
+          "package_name": "com.example.epaisa_bloc_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812796910341-nam674liveia97p4dadncjq48ega8f21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMs1OwRl3VC8mNrOjjYAQsBRYVRIsIW_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812796910341-nam674liveia97p4dadncjq48ega8f21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
